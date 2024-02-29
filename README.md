@@ -12,6 +12,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * R = Recommended
 
 # Table of Contents
+## RISCV
+   * [vivado_rocket](https://github.com/eugene-tarassov/vivado-risc-v.git)
+ 
 
 ## PDKs
    * [Manufacturable PDKs](#manufacturable-pdks)
