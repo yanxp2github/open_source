@@ -16,7 +16,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
    * [vivado_rocket](https://github.com/eugene-tarassov/vivado-risc-v.git)
 
 ## GPGPU
-   * [Vortex](https://github.com/vortexgpgpu.git)
+   * [Vortex](https://github.com/vortexgpgpu)
    * 
 ## PDKs
    * [Manufacturable PDKs](#manufacturable-pdks)
