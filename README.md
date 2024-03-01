@@ -1,15 +1,6 @@
-# awesome-opensource-hardware
-
-A curated list of awesome open source hardware tools, generators, and reusable designs.
-
-* Categorized
-* Alphabetical (per category)
-* Requirements
-  - link should be to source code repository
-  - open source projects only
-  - working projects only (not WIP/rusty)
+# Opensource for IC Design
 * One tag line sentence per project
-* R = PATH
+* (R) = PATH
 
 # Table of Contents
 ## CHIPS
