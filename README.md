@@ -9,12 +9,31 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   - open source projects only
   - working projects only (not WIP/rusty)
 * One tag line sentence per project
-* R = Recommended
+* R = PATH
 
 # Table of Contents
+## CHIPS
+   * [chipsalliance](https://github.com/chipsalliance) (R) :star:
+     
 ## RISCV
+   1. ROCKET
    * [vivado_rocket](https://github.com/eugene-tarassov/vivado-risc-v.git)
+   * [rocket-chip](https://github.com/chipsalliance/rocket-chip.git)
+   * [chipyard](https://github.com/ucb-bar/chipyard.git)
 
+   2. SWERV
+   * [Swerv-EH1](https://github.com/chipsalliance/Cores-VeeR-EH1.git)
+   * [Swerv-EH2](https://github.com/chipsalliance/Cores-VeeR-EH2.git)
+   * [Swerv-EL2](https://github.com/chipsalliance/Cores-VeeR-EL2.git)
+   * [Swerv-WoLF](https://github.com/chipsalliance/VeeRwolf.git)
+     
+   3. THEAD
+   * [THEAD](https://github.com/T-head-Semi) (R) :star:
+   * [opene902](https://github.com/T-head-Semi/opene902)
+   * [opene906](https://github.com/T-head-Semi/opene906)
+   * [openc906](https://github.com/T-head-Semi/openc906)
+   * [openc910](https://github.com/T-head-Semi/openc910)
+     
 ## GPGPU
    * [Vortex](https://github.com/vortexgpgpu) (R) :star:
    * 
