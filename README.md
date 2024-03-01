@@ -33,10 +33,18 @@ A curated list of awesome open source hardware tools, generators, and reusable d
    * [opene906](https://github.com/T-head-Semi/opene906)
    * [openc906](https://github.com/T-head-Semi/openc906)
    * [openc910](https://github.com/T-head-Semi/openc910)
+
+   4. RISCV-VECTOR
+   * [PULP](https://github.com/pulp-platform) (R) :star:
+   * [ARA](https://github.com/pulp-platform/ara)
+
      
 ## GPGPU
    * [Vortex](https://github.com/vortexgpgpu) (R) :star:
-   * 
+   * [Vortex](https://github.com/vortexgpgpu/vortex)
+   * [VeriGPU](https://github.com/hughperkins/VeriGPU)
+
+
 ## PDKs
    * [Manufacturable PDKs](#manufacturable-pdks)
    * [Virtual PDKs](#virtual-pdks)
