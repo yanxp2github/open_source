@@ -29,6 +29,9 @@
    * [PULP](https://github.com/pulp-platform) (R) :star:
    * [ARA](https://github.com/pulp-platform/ara)
 
+## RISCV Tools
+   * [Riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain)
+
      
 ## GPGPU
    * [Vortex](https://github.com/vortexgpgpu) (R) :star:
