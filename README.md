@@ -31,7 +31,7 @@
 
 ## RISCV Tools
    * [Riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain)
-   * [Opensbi](https://https://github.com/riscv/opensbi)
+   * [Opensbi](https://github.com/riscv/opensbi)
    * [Uboot](https://github.com/u-boot/u-boot)
    * [Linux-stable](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux)
    * [openocd](https://github.com/riscv/riscv-openocd)
