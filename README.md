@@ -41,6 +41,10 @@
    * [Vortex](https://github.com/vortexgpgpu/vortex)
    * [VeriGPU](https://github.com/hughperkins/VeriGPU)
 
+## SPEECH
+   * [K2-fsa](https://github.com/k2-fsa/sherpa-onnx)
+ 
+
 
 ## PDKs
    * [Manufacturable PDKs](#manufacturable-pdks)
