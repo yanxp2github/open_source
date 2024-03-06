@@ -9,6 +9,7 @@
 ## RISCV
    1. ROCKET
    * [vivado_rocket](https://github.com/eugene-tarassov/vivado-risc-v.git)
+   * [fpga_rocket](https://github.com/sycuricon/starship.git)
    * [rocket-chip](https://github.com/chipsalliance/rocket-chip.git)
    * [chipyard](https://github.com/ucb-bar/chipyard.git)
 
