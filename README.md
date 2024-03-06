@@ -29,6 +29,10 @@
    * [PULP](https://github.com/pulp-platform) (R) :star:
    * [ARA](https://github.com/pulp-platform/ara)
 
+   5. sifive
+   * [sifive-blocks](https://github.com/sifive/sifive-blocks)
+
+
 ## RISCV Tools
    * [Riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain)
    * [Opensbi](https://github.com/riscv/opensbi)
