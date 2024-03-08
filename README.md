@@ -45,6 +45,8 @@
    * [Vortex](https://github.com/vortexgpgpu) (R) :star:
    * [Vortex](https://github.com/vortexgpgpu/vortex)
    * [VeriGPU](https://github.com/hughperkins/VeriGPU)
+   * [Ventus](https://github.com/THU-DSP-LAB/ventus-gpgpu)
+
 
 ## SPEECH
    * [K2-fsa](https://github.com/k2-fsa/sherpa-onnx)
