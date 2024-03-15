@@ -34,9 +34,9 @@
    * [sifive-blocks](https://github.com/sifive/sifive-blocks)
 
    6. Others
+   * [riscv](https://github.com/riscv) (R) :star:
    * [riscv-Crypto](https://github.com/riscv/riscv-crypto)
-   * [riscv-SoC](https://github.com/wuzhanmin/riscv_soc) 
-
+   * [riscv-SoC](https://github.com/wuzhanmin/riscv_soc)
 
 ## RISCV Tools
    * [Riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain)
