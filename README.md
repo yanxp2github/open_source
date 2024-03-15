@@ -30,11 +30,12 @@
    * [PULP](https://github.com/pulp-platform) (R) :star:
    * [ARA](https://github.com/pulp-platform/ara)
 
-   5. sifive
+   5. SIFIVE
    * [sifive-blocks](https://github.com/sifive/sifive-blocks)
 
-   6. Crypto
-   * [riscv-Crypto](https://github.com/riscv/riscv-crypto) 
+   6. Others
+   * [riscv-Crypto](https://github.com/riscv/riscv-crypto)
+   * [riscv-SoC](https://github.com/wuzhanmin/riscv_soc) 
 
 
 ## RISCV Tools
