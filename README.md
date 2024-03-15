@@ -33,6 +33,9 @@
    5. sifive
    * [sifive-blocks](https://github.com/sifive/sifive-blocks)
 
+   6. Crypto
+   * [riscv-Crypto](https://github.com/riscv/riscv-crypto) 
+
 
 ## RISCV Tools
    * [Riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain)
