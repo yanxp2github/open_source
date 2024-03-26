@@ -56,7 +56,7 @@
    * [K2-fsa](https://github.com/k2-fsa/sherpa-onnx)
 
 ## SoC
-   * [ultraembedded(https://github.com/ultraembedded) (R) :star:
+   * [ultraembedded](https://github.com/ultraembedded) (R) :star:
    * [FPGAmp](https://github.com/ultraembedded/FPGAmp)
  
 ## Peripherial
