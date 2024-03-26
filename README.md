@@ -54,8 +54,14 @@
 
 ## SPEECH
    * [K2-fsa](https://github.com/k2-fsa/sherpa-onnx)
- 
 
+## SoC
+   * [ultraembedded(https://github.com/ultraembedded) (R) :star:
+   * [FPGAmp](https://github.com/ultraembedded/FPGAmp)
+ 
+## Peripherial
+   * [XIP_AXISPIROM](https://github.com/ultraembedded/core_spiflash)
+   * [JPG_Decode](https://github.com/ultraembedded/core_jpeg)   
 
 ## PDKs
    * [Manufacturable PDKs](#manufacturable-pdks)
