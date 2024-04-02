@@ -5,6 +5,7 @@
 # Table of Contents
 ## CHIPS
    * [Chipsalliance](https://github.com/chipsalliance) (R) :star:
+   * [RISCV-DV](https://github.com/chipsalliance/riscv-dv)
      
 ## RISCV
    1. ROCKET
