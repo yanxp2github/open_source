@@ -59,10 +59,10 @@
 
 ## SoC
    * [ultraembedded](https://github.com/ultraembedded) (R) :star:
-   * [FPGAmp](https://github.com/ultraembedded/FPGAmp)
+   * [FPGAm](https://github.com/ultraembedded/FPGAmp)
     
 ## FPU
-   * [FPGAmp](https://github.com/dawsonjon/fpu)
+   * [FPU](https://github.com/dawsonjon/fpu)
 
  
 ## Peripherial
