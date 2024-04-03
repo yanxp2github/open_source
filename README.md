@@ -70,7 +70,8 @@
    * [SPI-AXIBRIDGE](https://github.com/airhdl/spi-to-axi-bridge) 
    * [JPG_Decode](https://github.com/ultraembedded/core_jpeg)
    * [UART-> AXI Bridge](https://github.com/ultraembedded/core_dbg_bridge)
-   * [HDMI](https://github.com/ultraembedded/core_dvi_framebuffer) 
+   * [HDMI](https://github.com/ultraembedded/core_dvi_framebuffer)
+   * [FPGA-USB](https://github.com/WangXuan95/FPGA-USB-Device)
 
 ## PDKs
    * [Manufacturable PDKs](#manufacturable-pdks)
