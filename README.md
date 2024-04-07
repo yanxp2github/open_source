@@ -14,7 +14,7 @@
    * [rocket-chip](https://github.com/chipsalliance/rocket-chip.git)
    * [chipyard](https://github.com/ucb-bar/chipyard.git)
 
-   * [rocket-chip_readcode](https://www.cnblogs.com/wjcdx/tag/rocke)
+   * [rocket-chip_readcode](https://www.cnblogs.com/wjcdx/tag/rocket)
 
 
    2. SWERV
